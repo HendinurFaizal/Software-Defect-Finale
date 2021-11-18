@@ -15,7 +15,7 @@ Machine learning model for _'Software Defect Prediction'_ using deep learning an
 - Results
   
   [Results directory](https://github.com/mhnaufal/Software-Defect-Finale/tree/main/reports)
-  _-Complete results available soon-_
+ 
   
   _Results from running model(s) shown in reports folder_
 
