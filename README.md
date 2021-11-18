@@ -10,7 +10,7 @@ Machine learning model for _'Software Defect Prediction'_ using deep learning an
 
 - Models
   
-  CNN, RNN, LSTM, Random Forest, and more
+  CNN, LSTM, and Random Forest
 
 - Results
   
